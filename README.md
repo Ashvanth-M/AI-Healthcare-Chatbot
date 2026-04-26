@@ -299,5 +299,3 @@ public/ → assets
 - Multilingual support  
 - Wearable integration  
 
----
->>>>>>> 8cd164ba505401f26869828668d8e90a574dfabc
