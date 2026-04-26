@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 Rural Healthcare Educator
 
 A comprehensive multilingual AI chatbot designed to educate rural and semi-urban populations about preventive healthcare, disease symptoms, vaccination schedules, and government health schemes. Built with Next.js, Gemini AI, and modern web technologies.
@@ -255,3 +256,48 @@ For support and questions:
 **⚠️ Important Notice**: This is an educational tool designed to provide general healthcare information. Always consult qualified healthcare professionals for medical advice, diagnosis, and treatment. The chatbot cannot replace professional medical consultation.
 
 **🎯 Mission**: Empowering rural communities with accessible, accurate, and actionable healthcare information through AI technology.
+=======
+# 🏥 AI Healthcare Chatbot
+
+An AI-powered healthcare assistant that provides:
+- 🤖 Chat-based medical guidance
+- 🎤 Voice input (speech-to-text)
+- 📍 Hospital locator
+- 📊 Health dashboard
+
+---
+
+## 🚀 Tech Stack
+- Frontend: React / Next.js
+- Backend: Node.js
+- AI: Google Generative AI
+- Cloud: Microsoft Azure
+- Database: Azure SQL
+
+---
+
+## 📁 Project Structure
+
+frontend/ → UI  
+backend/ → APIs  
+docs/ → diagrams  
+public/ → assets  
+
+---
+
+## ⚡ Features
+- User Authentication  
+- AI Chatbot  
+- Symptom Analysis  
+- Voice Interaction  
+- Hospital Locator  
+
+---
+
+## 📌 Future Scope
+- Doctor consultation  
+- Multilingual support  
+- Wearable integration  
+
+---
+>>>>>>> 8cd164ba505401f26869828668d8e90a574dfabc
